@@ -2,6 +2,6 @@ pytest==2.8.0
 responses==0.5.0
 mockito
 selenium==3.141.0
-requests==2.11.1
+requests==2.20.0
 syncloud-lib==197
 urllib3==1.25.9
