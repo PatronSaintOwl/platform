@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "ag-grid-community": "^24.1.0",
-    "axios": "^0.20.0",
+    "axios": "^0.21.1",
     "bootstrap": "^3.3.5",
     "bootstrap-switch": "^3.4.0",
     "core-js": "^3.6.5",
