@@ -6,7 +6,7 @@ massedit==0.67.1
 werkzeug==0.16.1
 Flask==0.12.4
 flask-login==0.2.10
-psutil==4.3.0
+psutil==5.6.6
 Jinja2==2.9.6
 miniupnpc==1.9
 python-ldap==3.2.0
